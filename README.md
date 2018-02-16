@@ -2,11 +2,11 @@
 
 ```
 mail@axel-faltin.de
-Fax +49 40 228207609 
 Cell + 1 650 435 2548
+Fax +49 40 228207609
 ```
 
-### Snail Mail USA
+### Snail Mail USA - this is a virtual address
 ```
 340 S LEMON AVE #7022
 WALNUT , CA 91789
@@ -22,7 +22,6 @@ Germany
 ```
 
 ### Social
-
 ```
 linkedin.com/in/axelfaltin
 www.xing.com/profile/Axel_Faltin
@@ -30,7 +29,6 @@ twitter.com/axelfaltin
 ```
 
 ### Have something secret? Bring it on
-
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
