@@ -7,7 +7,7 @@
 # San Mateo CA 94402
 # USA
 
-#mail@axel-faltin.de
+# mail@axel-faltin.de
 # Fax +49 40 228207609 
 # Cell + 1 650 435 2548
 
@@ -29,8 +29,9 @@
 # twitter.com/axelfaltin
 
 
-#####Have something secret? Bring it on
+##### Have something secret? Bring it on
 
+```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Version: GnuPG v2
 
@@ -69,3 +70,4 @@ X+RP/zhnR3tU1ptfqjXXwgLx3VTsWJZCSmEjt7Xgez3IvJw5xT0qs+DMCdhGAukP
 ++30XcZK3Iujdv2WVjFSHR8j
 =R7HU
 -----END PGP PUBLIC KEY BLOCK-----
+```
