@@ -1,25 +1,32 @@
 ### You want to get in touch with me? Are you sure?
+```
 mail@axel-faltin.de
 Fax +49 40 228207609 
 Cell + 1 650 435 2548
+```
 
 ## Snail Mail USA
+```
 340 S LEMON AVE #7022
 WALNUT , CA 91789
 USA
+```
 
 
 ## Snail Mail Germany
+```
 Bopserwaldstraße 54
 70839 Gerlingen
 Germany
+```
 
 ## Social
 
+```
 linkedin.com/in/axelfaltin
 www.xing.com/profile/Axel_Faltin
 twitter.com/axelfaltin
-
+```
 
 Have something secret? Bring it on
 
