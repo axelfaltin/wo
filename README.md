@@ -1,35 +1,27 @@
-#########################
-# You want to get in touch with me? Are you sure?
-#########################
+### You want to get in touch with me? Are you sure?
+mail@axel-faltin.de
+Fax +49 40 228207609 
+Cell + 1 650 435 2548
 
-# Axel Faltin
-# 1299 Parrott Dr
-# San Mateo CA 94402
-# USA
-
-# mail@axel-faltin.de
-# Fax +49 40 228207609 
-# Cell + 1 650 435 2548
-
-#####Snail Mail USA
-# 340 S LEMON AVE #7022
-# WALNUT , CA 91789
-# USA
+## Snail Mail USA
+340 S LEMON AVE #7022
+WALNUT , CA 91789
+USA
 
 
-#####Snail Mail Germany
-# Bopserwaldstraße 54
-# 70839 Gerlingen
-# Germany
+## Snail Mail Germany
+Bopserwaldstraße 54
+70839 Gerlingen
+Germany
 
-#####Social
+## Social
 
-# linkedin.com/in/axelfaltin
-# www.xing.com/profile/Axel_Faltin
-# twitter.com/axelfaltin
+linkedin.com/in/axelfaltin
+www.xing.com/profile/Axel_Faltin
+twitter.com/axelfaltin
 
 
-##### Have something secret? Bring it on
+Have something secret? Bring it on
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
