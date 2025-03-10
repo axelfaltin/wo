@@ -2,22 +2,13 @@
 
 ```
 mail@axel-faltin.de
-NEW Cell Axel + 49 171 8146037
-NEW Cell Alexandra +49 152 27679376
-Fax +49 40 228207609
+Cell Axel + 49 171 XXXX037
+Cell Alexandra +49 152 XXXX9376
 ```
-
-### Snail Mail USA - this is a virtual address
-```
-340 S LEMON AVE #7022
-WALNUT , CA 91789
-USA
-```
-
 
 ### Snail Mail Germany
 ```
-Bopserwaldstraße 54
+Nanetteweg 32
 70839 Gerlingen
 Germany
 ```
